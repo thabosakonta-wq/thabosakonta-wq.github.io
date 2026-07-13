@@ -1,0 +1,132 @@
+<div class="card">
+
+<h3>Programming & Automation</h3>
+
+<ul>
+
+<li>Python</li>
+
+<li>Bash</li>
+
+<li>Linux</li>
+
+<li>Git</li>
+
+<li>Termux</li>
+
+</ul>
+
+</div>
+
+
+</div>
+
+</section>
+
+
+
+
+<section id="tools">
+
+
+<h2>Tools</h2>
+
+
+<div class="cards">
+
+
+<div class="card">
+
+<h3>Security Tools</h3>
+
+<ul>
+
+<li>Microsoft Sentinel</li>
+
+<li>Velociraptor</li>
+
+<li>Sysmon</li>
+
+<li>Wireshark</li>
+
+<li>Nmap</li>
+
+<li>tcpdump</li>
+
+<li>MITRE ATT&CK</li>
+
+</ul>
+
+</div>
+
+
+
+<div class="card">
+
+<h3>Operating Systems</h3>
+
+<ul>
+
+<li>Windows</li>
+
+<li>Linux</li>
+
+<li>WSL2</li>
+
+<li>Termux</li>
+
+</ul>
+
+</div>
+
+
+
+<div class="card">
+
+<h3>Languages</h3>
+
+<ul>
+
+<li>Python</li>
+
+<li>Bash</li>
+
+<li>SQL</li>
+
+<li>KQL</li>
+
+</ul>
+
+</div>
+
+
+</div>
+
+
+</section>
+
+
+
+
+<section id="certifications">
+
+
+<h2>Certifications</h2>
+
+
+<ul>
+
+<li>Microsoft Certified: Security Operations Analyst Associate (SC-200)</li>
+
+<li>Google Cybersecurity Professional Certificate</li>
+
+<li>Career Essentials in Cybersecurity</li>
+
+<li>Career Essentials in Generative AI</li>
+
+</ul>
+
+
+</section>
+
+
